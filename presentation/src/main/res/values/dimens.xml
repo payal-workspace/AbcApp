@@ -1,0 +1,58 @@
+<resources>
+    <dimen name="padding_0dp">0dp</dimen>
+    <dimen name="padding_1dp">1dp</dimen>
+    <dimen name="padding_4dp">4dp</dimen>
+    <dimen name="padding_5dp">5dp</dimen>
+    <dimen name="padding_8dp">8dp</dimen>
+    <dimen name="padding_10dp">10dp</dimen>
+    <dimen name="padding_15dp">15dp</dimen>
+    <dimen name="padding_20dp">20dp</dimen>
+    <dimen name="padding_25dp">25dp</dimen>
+    <dimen name="padding_30dp">30dp</dimen>
+    <dimen name="padding_35dp">35dp</dimen>
+    <dimen name="padding_40dp">40dp</dimen>
+    <dimen name="padding_45dp">45dp</dimen>
+    <dimen name="padding_50dp">50dp</dimen>
+    <dimen name="padding_55dp">55dp</dimen>
+    <dimen name="padding_60dp">60dp</dimen>
+    <dimen name="padding_65dp">65dp</dimen>
+    <dimen name="padding_70dp">70dp</dimen>
+    <dimen name="padding_75dp">75dp</dimen>
+    <dimen name="padding_80dp">80dp</dimen>
+    <dimen name="padding_85dp">85dp</dimen>
+    <dimen name="padding_90dp">90dp</dimen>
+    <dimen name="padding_95dp">95dp</dimen>
+    <dimen name="padding_100dp">100dp</dimen>
+    <dimen name="padding_105dp">105dp</dimen>
+    <dimen name="padding_110dp">11dp</dimen>
+    <dimen name="padding_115dp">115dp</dimen>
+    <dimen name="padding_120dp">120dp</dimen>
+    <dimen name="padding_150dp">150dp</dimen>
+
+    <dimen name="textview_small_size">11sp</dimen>
+    <dimen name="textview_middle_size">13sp</dimen>
+    <dimen name="textview_big_0_size">21sp</dimen>
+    <dimen name="textview_big_1_size">30sp</dimen>
+
+    <dimen name="margin_xl">80dp</dimen>
+    <dimen name="margin_xxl">100dp</dimen>
+    <dimen name="large_horizontal_margin">22dp</dimen>
+
+    <dimen name="text_small">11sp</dimen>
+    <dimen name="text_medium">13sp</dimen>
+    <dimen name="text_15sp">15sp</dimen>
+    <dimen name="text_18sp">18sp</dimen>
+    <dimen name="text_large">21sp</dimen>
+    <dimen name="text_xlarge">21sp</dimen>
+    <dimen name="text_xxlarge">30sp</dimen>
+
+    <dimen name="margin_small">10dp</dimen>
+    <dimen name="margin_medium">20dp</dimen>
+    <dimen name="margin_large">40dp</dimen>
+    <dimen name="margin_xlarge">80dp</dimen>
+    <dimen name="margin_xxlarge">100dp</dimen>
+    <dimen name="margin_big_xl">150dp</dimen>
+    <dimen name="margin_big_xxl">180dp</dimen>
+    <dimen name="margin_big_xxxl">200dp</dimen>
+    <dimen name="margin_horizontal_large">22dp</dimen>
+</resources>

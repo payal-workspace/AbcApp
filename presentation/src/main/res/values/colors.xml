@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="color_primary">#FF5722</color>
+    <color name="color_primary_dark">#E64A19</color>
+    <color name="color_accent">#FF9800</color>
+
+    <color name="color_tertiary">#FAC6B5</color>
+    <color name="color_secondary_text">#757575</color>
+
+    <color name="window_background">#FFFFFF</color>
+    <color name="bg_search_bar">#c1c5c5</color>
+    <color name="bg_list_item">#cde8e1</color>
+
+    <color name="text_primary">#212121</color>
+    <color name="text_secondary">#757575</color>
+    <color name="txt_list_item">#1c2421</color>
+
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="transparent">#00000000</color>
+    <color name="cyan">#00827b</color>
+
+</resources>

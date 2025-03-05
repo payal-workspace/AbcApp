@@ -1,0 +1,31 @@
+<resources>
+    <style name="RoundedImageViewStyle">
+        <item name="shapeAppearanceOverlay">@style/RoundedShape</item>
+    </style>
+
+    <style name="RoundedShape">
+        <item name="cornerFamily">rounded</item>
+        <item name="cornerSize">@dimen/padding_10dp</item>
+    </style>
+
+    <style name="MyTheme" parent="android:Theme">
+        <item name="android:textViewStyle">@style/NormalTextStyle</item>
+    </style>
+
+    <style name="NormalTextStyle" parent="android:Widget.TextView">
+        <item name="android:textColor">@color/black</item>
+        <item name="android:textStyle">normal</item>
+        <item name="android:textSize">20sp</item>
+    </style>
+
+    <style name="BoldTextStyleTheme" parent="android:Theme">
+        <item name="android:textViewStyle">@style/BoldTextStyle</item>
+    </style>
+
+    <style name="BoldTextStyle" parent="android:Widget.TextView">
+        <item name="android:textColor">@color/black</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:textSize">18sp</item>
+    </style>
+
+</resources>

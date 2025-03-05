@@ -1,0 +1,13 @@
+<resources>
+    <string name="floating_button_description">Bottom Sheet UI</string>
+    <string name="sports_category_title">Sports Title</string>
+    <string name="sports_category_text">Sports Genre</string>
+    <string name="sports_poster">Game Poster</string>
+    <string name="label_top_characters">Top Characters</string>
+    <string name="label_num_of_sports_categories">Number of Categories -> </string>
+    <string name="label_top_three_findings">Top 3 Findings -> </string>
+
+    <string name="search">Search</string>
+
+    <string name="img_sports_category">This is an image for the following category</string>
+</resources>

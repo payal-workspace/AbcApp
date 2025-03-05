@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical"
+    android:padding="@dimen/padding_40dp">
+
+    <TextView
+        android:id="@+id/tvNoOfCategories"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/label_num_of_sports_categories"
+        style="@style/BoldTextStyle"/>
+
+    <TextView
+        android:id="@+id/labelNoOfCharacters"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/label_top_three_findings"
+        style="@style/BoldTextStyle"
+        android:layout_marginTop="@dimen/padding_15dp"/>
+
+
+    <TextView
+        android:id="@+id/tvTopCharacters"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        style="@style/BoldTextStyle"
+        android:layout_marginTop="@dimen/padding_15dp"/>
+</LinearLayout>

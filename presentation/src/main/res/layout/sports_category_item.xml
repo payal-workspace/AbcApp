@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:layout_marginStart="@dimen/padding_20dp"
+    android:layout_marginTop="@dimen/padding_4dp"
+    android:layout_marginEnd="@dimen/padding_20dp"
+    android:layout_marginBottom="@dimen/padding_4dp"
+    android:background="@drawable/bg_list_item"
+    android:backgroundTint="@color/bg_list_item"
+    android:padding="@dimen/padding_15dp">
+
+    <com.google.android.material.imageview.ShapeableImageView
+        android:id="@+id/sportsCategoryImage"
+        style="@style/RoundedImageViewStyle"
+        android:layout_width="@dimen/padding_50dp"
+        android:layout_height="@dimen/padding_50dp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <androidx.appcompat.widget.AppCompatTextView
+        android:id="@+id/tvCategoryName"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="@dimen/padding_10dp"
+        android:gravity="start"
+        android:inputType="textNoSuggestions"
+        android:textColor="@color/txt_list_item"
+        style="@style/BoldTextStyle"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toEndOf="@+id/sportsCategoryImage"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <androidx.appcompat.widget.AppCompatTextView
+        android:id="@+id/tvCategoryDescription"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="@dimen/padding_10dp"
+        android:inputType="textNoSuggestions"
+        android:textColor="@color/txt_list_item"
+        style="@style/NormalTextStyle"
+        android:textSize="@dimen/text_15sp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toEndOf="@+id/sportsCategoryImage"
+        app:layout_constraintTop_toBottomOf="@+id/tvCategoryName" />
+
+</androidx.constraintlayout.widget.ConstraintLayout>
