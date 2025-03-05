@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="padding_0">0dp</dimen>
+    <dimen name="padding_10">10dp</dimen>
+    <dimen name="large_margin">100dp</dimen>
+    <dimen name="corner_radius_8dp">8dp</dimen>
+    <dimen name="corner_radius_15dp">15dp</dimen>
+    <dimen name="corner_radius">20dp</dimen>
+    <dimen name="padding_12">12dp</dimen>
+    <dimen name="padding_16">16dp</dimen>
+    <dimen name="padding_18">18dp</dimen>
+    <dimen name="padding_50">50dp</dimen>
+    <dimen name="padding_55">55dp</dimen>
+    <dimen name="padding_4">4dp</dimen>
+    <dimen name="padding_5">5dp</dimen>
+    <dimen name="padding_8">8dp</dimen>
+    <dimen name="padding_60">60dp</dimen>
+    <dimen name="padding_200">200dp</dimen>
+    <dimen name="medium_margin">20dp</dimen>
+    <dimen name="search_text_size">20sp</dimen>
+    <dimen name="text_item_description_title">20sp</dimen>
+    <dimen name="text_item_description_size">18sp</dimen>
+    <dimen name="text_bottomsheet_views_size">25sp</dimen>
+    <dimen name="text_bottomsheet_statistics_size">20sp</dimen>
+
+
+
+</resources>

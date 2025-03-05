@@ -1,0 +1,13 @@
+<resources>
+    <string name="title_activity_game">GameActivity</string>
+    <string name="title_activity_base">BaseActivity</string>
+    <string name="text_clear_input">Clear Input</string>
+    <string name="text_search_icon">Search Icon</string>
+    <string name="label_search">Search</string>
+    <string name="text_carousel_image">Carousel Image</string>
+    <string name="text_sports_item_image">Sports Item Image</string>
+    <string name="text_retry">Retry</string>
+    <string name="top_characters">Top Characters</string>
+    <string name="number_of_sports">Number of Sports</string>
+    <string name="open_bottomsheet">Open Bottomsheet</string>
+</resources>
